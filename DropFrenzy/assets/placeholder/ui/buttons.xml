@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="buttons.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="butEasy.png"	x="0"	y="132"	width="96"	height="64" frameX="-0" frameY="-0" frameWidth="96" frameHeight="64"/>
+	<SubTexture name="butHard.png"	x="0"	y="66"	width="96"	height="64" frameX="-0" frameY="-0" frameWidth="96" frameHeight="64"/>
+	<SubTexture name="butMedium.png"	x="0"	y="0"	width="96"	height="64" frameX="-0" frameY="-0" frameWidth="96" frameHeight="64"/>
+	<SubTexture name="butMenu.png"	x="98"	y="100"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="butPause.png"	x="98"	y="166"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="butPlay.png"	x="98"	y="0"	width="96"	height="64" frameX="-0" frameY="-0" frameWidth="96" frameHeight="64"/>
+	<SubTexture name="butRestart.png"	x="164"	y="100"	width="64"	height="64" frameX="-0" frameY="-0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="tagScore.png"	x="0"	y="198"	width="96"	height="32" frameX="-0" frameY="-0" frameWidth="96" frameHeight="32"/>
+	<SubTexture name="tagSkill.png"	x="98"	y="66"	width="72"	height="32" frameX="-0" frameY="-0" frameWidth="72" frameHeight="32"/>
+</TextureAtlas>

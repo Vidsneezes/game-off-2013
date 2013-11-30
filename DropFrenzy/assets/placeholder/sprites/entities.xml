@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="entities.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="objEnemyLeft.png"	x="69"	y="52"	width="67"	height="48" frameX="-0" frameY="-0" frameWidth="67" frameHeight="48"/>
+	<SubTexture name="objEnemyRight.png"	x="0"	y="52"	width="67"	height="48" frameX="-0" frameY="-0" frameWidth="67" frameHeight="48"/>
+	<SubTexture name="sprPlayer_0.png"	x="0"	y="0"	width="72"	height="50" frameX="-0" frameY="-0" frameWidth="72" frameHeight="50"/>
+</TextureAtlas>
